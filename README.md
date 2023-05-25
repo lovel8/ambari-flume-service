@@ -4,9 +4,9 @@ Reference from: ambari-server/src/main/resources/common-service/FLUME/1.4.0.2
 
 **test environment：**
 
-- ambari 2.7.3
+- ambari 2.7.5
 
-- hdp 3.1.0
+- hdp 3.1.5
 
 - flume 1.9.0
 
