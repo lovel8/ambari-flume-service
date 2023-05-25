@@ -18,7 +18,7 @@ Reference from: ambari-server/src/main/resources/common-service/FLUME/1.4.0.2
 
     buildrpm/rpmbuild/SPECS/flume.spec
 
-  2. install rpmbuild on your host `yum install rpmbuild -y`
+  2. install rpmbuild on your host `yum install rpm-build -y`
 
   3. copy buildrpm dir to your host
 
